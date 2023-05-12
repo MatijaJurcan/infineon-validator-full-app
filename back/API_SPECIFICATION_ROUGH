@@ -1,0 +1,12 @@
+API ENDPOINTS
+
+HTTP REQUEST TYPE, ROUTE, FUNCTION
+
+POST: /api/samples, createSamples()
+POST: /api/inputconditions,  createInputConditions()
+POST: /api/testpoints,  createTestPointCollections()
+POST: /api/testvectorsmodifiers, createTestVectorsModifiers()
+GET: /api/samples, getSamples()
+GET: /api/inputconditions, getInputConditions()
+GET: /api/prelimtestvectors, getPrelimTestVectors()
+GET: /api/testvectors, getFinalTestVectors()
